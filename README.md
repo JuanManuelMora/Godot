@@ -23,7 +23,7 @@ Para jugar a cada uno de los diferentes juegos, puedes descargar el .rar que est
 - <img src="rar.png" alt="RAR" width="20"/> [Proyecto4](/Proyecto4/Entregable_Tarea1.rar)
 
 1. Proyecto1
-    - ![Proyecto1](/Proyecto1/Clase2_Entregable.rar)
+    - <img src="rar.png" alt="RAR" width="20"/> [Proyecto1](/Proyecto1/Clase2_Entregable.rar)
 
     - **Controles básicos**:
         - Movimiento: [Flechas ↑↓ → ←]
@@ -33,7 +33,7 @@ Para jugar a cada uno de los diferentes juegos, puedes descargar el .rar que est
         - El juego consiste en dos niveles, donde debes de pasar obstáculos y evitar tener contacto con los murcielagos, de esta forma podrás pasar los dos nieveles y ganar el juego.
 
 2. Proyecto2
-    - ![Proyecto2](/Proyecto2/RPG_Juan_Manuel_Morales_Garcia.rar)
+    - <img src="rar.png" alt="RAR" width="20"/> [Proyecto2](/Proyecto2/RPG_Juan_Manuel_Morales_Garcia.rar)
 
     - **Controles básicos**:
         - Movimiento [Teclas utilizadas, WASD, W = Arriba, A = Izquierda, S = Abajo, D = Derecha]

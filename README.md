@@ -13,11 +13,10 @@
 ## 🚀 Cómo jugar
 
 Para jugar a cada uno de los diferentes juegos, puedes descargar el .rar que está en las diferentes carpetas:
-    - ![Proyecto1](/Proyecto1/Clase2_Entregable.rar)
-    - ![Proyecto2](/Proyecto2/RPG_Juan_Manuel_Morales_Garcia.rar)
-    - ![Proyecto3](/Proyecto3/Runner_Infinito_Juan_Manuel_Morales_Garcia.rar)
-    - ![Proyecto4](/Proyecto4/Entregable_Tarea1.rar)
-
+- ![RAR](https://upload.wikimedia.org/wikipedia/commons/e/e6/WinRAR_Logo.png) [Proyecto1](/Proyecto1/Clase2_Entregable.rar)
+- ![RAR](https://upload.wikimedia.org/wikipedia/commons/e/e6/WinRAR_Logo.png) [Proyecto2](/Proyecto2/RPG_Juan_Manuel_Morales_Garcia.rar)
+- ![RAR](https://upload.wikimedia.org/wikipedia/commons/e/e6/WinRAR_Logo.png) [Proyecto3](/Proyecto3/Runner_Infinito_Juan_Manuel_Morales_Garcia.rar)
+- ![RAR](https://upload.wikimedia.org/wikipedia/commons/e/e6/WinRAR_Logo.png) [Proyecto4](/Proyecto4/Entregable_Tarea1.rar)
 
 1. Proyecto1
     ![Proyecto1](/Proyecto1/Clase2_Entregable.rar)

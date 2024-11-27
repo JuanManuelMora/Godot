@@ -12,7 +12,7 @@
 
 ## 🚀 Cómo jugar
 
-Para jugar a cada uno de los diferentes juegos, puedes descargar el .rar que está en las diferentes carpetas:
+Para jugar a cada uno de los diferentes juegos, puedes descargar el .rar que está en las diferentes carpetas, extarer los archivos en tu máquina local y ejecutar el .exe:
 
 - <img src="rar.png" alt="RAR" width="20"/> [Proyecto1](/Proyecto1/Clase2_Entregable.rar)
 

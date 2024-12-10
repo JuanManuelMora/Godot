@@ -1,58 +1,62 @@
 <div align="center">
 
-# 🎮 Juegos Godot
+# 🎮 Godot Games
 
-¡Bienvenido a mi proyecto desarrollado en [Godot Engine](https://godotengine.org/)! Este es un juego interactivo diseñado para demostrar mis habilidades en desarrollo de videojuegos y programación.
+Welcome to my project developed in [Godot Engine](https://godotengine.org/)! This repository contains several interactive games designed to showcase my skills in game development and programming.
 
-[Inglés]
+[Spanish Version](/README.md)
 
 </div>
 
-## 🕹️ Descripción de los proyectos
 
-- **Motor de desarrollo**: Godot Engine
+## 🕹️ Project Overview
 
----
+Each project includes unique mechanics and is designed to showcase different gameplay styles and technical skills. The games are organized into folders and can be run locally on your machine.
 
-## 🚀 Cómo jugar
 
-Para jugar a cada uno de los diferentes juegos, puedes descargar el .rar que está en las diferentes carpetas, extarer los archivos en tu máquina local y ejecutar el .exe:
+## 🚀 How to Play
 
-- <img src="rar.png" alt="RAR" width="20"/> [Proyecto1](/Proyecto1/Clase2_Entregable.rar)
+To play any of the games, follow these steps:
+1. Download the `.rar` file corresponding to the project.
+2. Extract the files on your local machine.
+3. Run the `.exe` file to start the game.
 
-- <img src="rar.png" alt="RAR" width="20"/> [Proyecto2](/Proyecto2/RPG_Juan_Manuel_Morales_Garcia.rar)
 
-- <img src="rar.png" alt="RAR" width="20"/> [Proyecto3](/Proyecto3/Runner_Infinito_Juan_Manuel_Morales_Garcia.rar)
+### <img src="/images/rar.png" alt="RAR" width="20"/> [Project 1](Proyecto1/Clase2_Entregable.rar)
+- **Basic Controls**:
+    - Movement: Arrow keys `↑↓→←`
+    - Jump: `Spacebar`
+- **About the Game**:
+    - Complete two levels by overcoming obstacles and avoiding contact with bats.
 
-- <img src="rar.png" alt="RAR" width="20"/> [Proyecto4](/Proyecto4/Entregable_Tarea1.rar)
 
-1. Proyecto1
-    - <img src="rar.png" alt="RAR" width="20"/> [Proyecto1](/Proyecto1/Clase2_Entregable.rar)
+### <img src="/images/rar.png" alt="RAR" width="20"/> [Project 2](Proyecto2/RPG_Juan_Manuel_Morales_Garcia.rar)
+- **Basic Controls**:
+    - Movement: `WASD`
+    - Attack: `Right mouse click`
+    - Pause: `ESC`
+- **About the Game**:
+    - Defeat 8 enemies on a single map, avoiding their attacks and eliminating them to win. Be careful—if you get hit five times, you will restart the game. You can choose to exit or continue playing after pausing, dying, or winning.
 
-    - **Controles básicos**
-        - Movimiento [Flechas ↑↓ → ←]
-        - Salto [Barra Espaciadora]
 
-    - **Sobre el juego**
-        - El juego consiste en dos niveles, donde debes de pasar obstáculos y evitar tener contacto con los murcielagos, de esta forma podrás pasar los dos nieveles y ganar el juego.
+### <img src="/images/rar.png" alt="RAR" width="20"/> [Project 3](Proyecto3/Runner_Infinito_Juan_Manuel_Morales_Garcia.rar)
+- **Basic Controls**:
+    - Movement: Arrow keys `→←`
+    - Jump: `Spacebar`
+- **About the Game**:
+    - An endless runner inspired by the famous Google Chrome dinosaur game.
 
-2. Proyecto2
-    - <img src="rar.png" alt="RAR" width="20"/> [Proyecto2](/Proyecto2/RPG_Juan_Manuel_Morales_Garcia.rar)
 
-    - **Controles básicos**
-        - Movimiento [Teclas utilizadas, WASD, W = Arriba, A = Izquierda, S = Abajo, D = Derecha]
-        - Atacar [Clic derecho del mouse]
-        - Pausa [Tecla ESC]
+### <img src="/images/rar.png" alt="RAR" width="20"/> [Project 4](Proyecto4/Entregable_Tarea1.rar)
+- **Basic Controls**:
+    - Movement: `WASD`
+    - Attack: `Right mouse click`
+- **About the Game**:
+    - You play as a ninja and must skillfully navigate through three different levels. Avoid spikes, moving bombs, and falling off the map. If you fall or fail, you will restart the level.
 
-    - **Sobre el juego**
-        - El juego solo tiene un mapa, hay un total de 8 enemigos, hay de dos tipos, fantasmas verdes y mosntruos de un ojo, los enemigos estarán lanzando hachas constantemente, tu objetivo será eliminar a los 8 enemigos para poder ganar el juego. Debes evitar que las hachas te peguen, si recibes cinco golpes de las hachas moriras y deberás iniciar desde cero. Cada vez que pauses, Mueras o Ganes en el juego, tendrás la opción de salir o seguir jugando.
 
-3. Proyecto3
-    - <img src="rar.png" alt="RAR" width="20"/> [Proyecto3](/Proyecto3/Runner_Infinito_Juan_Manuel_Morales_Garcia.rar)
+## 🛠️ Technologies Used
 
-    - **Controles básicos**
-        - Movimiento [Flechas → ←]
-        - Salto [Barra Espaciadora]
-
-    - **Sobre el juego**
-        - El juego se trata sobre un Runner Infinito, así como el dinosaurio de google.
+- **Game Engine**: [Godot Engine](https://godotengine.org/)
+- **Languages**: GDScript, HTML5, CSS3
+- **Resources**: 2D design, animations, and game logic

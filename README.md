@@ -4,7 +4,7 @@
 
 ¡Bienvenido a mi proyecto desarrollado en [Godot Engine](https://godotengine.org/)! Este repositorio contiene varios juegos interactivos diseñados para demostrar mis habilidades en desarrollo de videojuegos y programación.
 
-[English](/en/README_en.md)
+[English](/README_en.md)
 
 </div>
 
